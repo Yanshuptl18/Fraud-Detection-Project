@@ -1,5 +1,13 @@
-venv/
+# Python
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
+
+# Virtual environment
+venv/
 .env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/Base.csv
